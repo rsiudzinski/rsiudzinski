@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rsiudzinski
-- ♀️ I'm using she/her pronouns.
+- ⚧️ I'm using they/them pronouns.
 - 👀 I’m interested in Python, PHP, Arduino Projects and other cool Projects.
-- 🌱 I’m currently learning Drupal 8/9 Development.
+- 💼 I’m working in Drupal 10 Development and DevOps-Topics, such as Helm Charts.
 - 📫 You can reach me via rsiudzinski-via-github@mailbox.org .
